@@ -1,0 +1,12 @@
+{
+  "name": "orangehrm-automation",
+  "version": "1.0.0",
+  "description": "Cypress Automation with POM and Intercept",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  }
+}
